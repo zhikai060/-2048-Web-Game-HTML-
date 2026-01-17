@@ -1,8 +1,8 @@
-# 2048 Web Game 🧩
+2048 Web Game 🧩
 
 A classic 2048 game built with pure HTML, CSS, and JavaScript.
 
-## 🎮 Features
+🎮 Features
 - Keyboard controls (Arrow keys)
 - Win at 2048, continue up to 8192
 - Win & Game Over effects
@@ -10,13 +10,11 @@ A classic 2048 game built with pure HTML, CSS, and JavaScript.
 - Smooth tile animations
 - Fully playable in browser
 
-## 🚀 Play Online
-👉 https://zhikai060.github.io/2048-game/
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 - HTML5
 - CSS3
 - Vanilla JavaScript
 
-## 📄 License
+📄 License
 MIT
